@@ -62,3 +62,4 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/Deepikaprabakaran/Correlation_Regression/assets/154896682/bb0b13c6-3b2a-4d79-a6c6-09335a677e54)
 
 # Result 
+The poisson distriubution is fitted for the object arrived from feeder per minute and the data is tested using chi-square test  
